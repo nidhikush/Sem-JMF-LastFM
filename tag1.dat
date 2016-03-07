@@ -1,0 +1,838 @@
+tagID	tagValue
+1	metal
+2	alternative metal
+3	goth rock
+4	black metal
+5	death metal
+6	industrial metal
+7	gothic metal
+8	terror ebm
+9	electro-industrial
+10	harsh ebm
+11	post black metal
+12	aggrotech
+13	chillout
+14	ambient
+15	downtempo
+16	new wave
+17	synth pop
+18	electronic
+20	lounge
+21	trip-hop
+22	acid jazz
+23	new age
+24	pop
+25	80s 19, 43
+26	atmospheric
+27	ethereal
+28	deutsch
+29	schlager
+30	german
+33	experimental
+34	minimal
+35	cyberpunk
+36	club house
+37	groove
+38	cafe del mar
+39	dance
+40	gregorian chant
+41	female vocalists 49 130
+42	synth-pop
+44	glitch
+45	u-cover
+46	melancholy 56
+47	edm
+50	modern classical
+51	clicks and cuts
+52	databloem
+53	field recording
+54	greece
+57	clicks'n'cuts
+58	halbischt
+59	drone
+61	industrial
+62	trip hop
+63	basses frequences
+64	mille plateaux
+65	folktronica
+66	abstract
+67	noise
+68	glitch hop
+69	dub
+70	dubstep
+71	hiphop
+72	hard rock
+73	rock
+74	synthpop
+75	psychedelic rock
+76	progressive metal
+77	ambient rock
+78	alternative rock
+79	alternative
+80	glam rock
+81	indie
+82	doom metal
+83	jazz
+84	indie rock
+85	funk
+87	post-rock
+88	psychedelic
+89	symphonic metal
+90	trance
+91	thrash metal
+92	dope
+93	israeli
+94	winter
+95	autumn
+96	spring
+98	summer
+99	sunshine
+100	hip hop under 112
+101	raptuga
+102	hip-hop
+103	rap
+104	chill out
+105	house
+106	taraxinha
+107	kizomba
+108	rock and roll
+109	pop rock
+110	kizomba zouk
+111	70 hits
+113	hip hop angolano
+114	luso hip hop
+115	french rap
+116	jam
+117	kwasa
+118	semba
+119	angola
+120	world music
+121	uk
+122	old school
+123	new york
+124	pop dance
+126	zouk
+129	music idol
+131	girl groups
+132	girls
+133	deutschsprachig
+138	hard rock - metal
+139	j-rock
+140	j-pop
+141	visual kei
+142	electronic - trance - psytrance
+143	classical - pop
+144	arabic
+145	kpop
+146	jaebeom
+147	top
+149	g-dragon
+151	wonder girls
+153	junsu
+155	park jaebum 156
+158	jaywalkers
+159	anime
+160	noise rock
+161	kim jong kook
+162	soya
+163	niece
+164	k-pop
+165	good music
+167	rnb
+168	teen rock
+169	pop punk
+170	grunge
+173	lyceum
+174	belarussian pop
+175	belarussian rnb
+176	emo
+177	nu metal
+178	screamo
+179	gothic
+180	post-hardcore
+181	punk
+182	punk rock
+183	christian rock
+184	soundtrack
+185	acoustic
+186	emocore
+187	electronica
+188	polish
+189	industrial rock
+190	gothic rock
+191	instrumental
+192	classic rock
+193	country
+194	hardcore
+195	british
+196	polish rock
+197	gangsta rap
+198	rapcore
+199	electropop
+201	guilty pleasures
+202	electro pop
+203	disco
+204	fierce
+205	urban pop
+208	diva
+209	legend
+210	00s
+212	criminal
+213	beautiful
+214	big voice
+215	icon
+216	american
+217	untalented
+221	the hills
+226	california
+227	comedy
+228	catchy
+229	epic
+231	ballad
+233	dark
+234	amazing
+235	dancepop
+236	the fame monster
+239	spanish new wave
+240	80s pop espanol
+241	spanish pop
+242	power pop
+243	spanish rock
+244	spanish pop-rock
+245	garage
+246	pop espanol
+247	60s
+248	garage revival
+249	garage rock
+250	60s psychedelic
+251	swing
+252	mod
+253	rockabilly
+254	freakbeat
+255	rock espanol
+256	retro swing
+257	swing revival
+258	neo swing
+259	psychobilly
+260	grave stompers
+261	punkabilly
+262	50s rock revival
+263	80s garage
+264	90s pop espanol
+266	psychedelic garage
+267	psychedelic garage revival
+268	surf
+269	techno pop
+270	spanish rockabilly
+271	60s garage
+272	garage surf
+273	ska revival
+274	surf revival
+275	post-punk
+276	instro rock
+277	mod revival
+278	rock urbano
+279	ska punk
+281	grind
+282	spacy
+283	raw
+291	greek
+292	folk
+293	cypriot
+294	greek pop
+295	greek rock
+296	indie pop
+297	pop-rock
+298	greek alternative
+299	world
+300	greek hip-hop
+301	eurovision
+302	ethnic
+303	x factor
+304	hip hop
+305	pop-folk
+306	male vocalists
+307	pop folk
+308	latin
+309	electro
+310	modern folk
+311	reggae
+312	greek folk
+313	laiko
+314	greek rap
+315	asian
+316	entexno
+317	south pacific
+318	traditional
+319	spanish
+320	chilean
+321	french
+322	pacific
+323	hood
+327	progressive trance
+328	psycho
+329	slayer
+330	death
+331	pain
+332	atheist
+334	palestine
+335	pestilence
+341	noize
+342	idmbient
+343	crust
+344	witch house
+345	russian
+346	female
+347	gay
+348	gay icons
+349	teen pop
+350	gay icon
+351	europop
+352	90s
+353	girl
+354	fun
+355	female pop
+356	latin pop
+357	dance pop
+358	queen of pop
+359	top artists
+360	australian
+361	radio crazy
+362	toxic
+363	brit pop
+366	kylie minogue
+368	mexican
+369	kylie
+371	r and b
+372	best of pop
+375	russian metalcore
+376	metalcore
+377	nintendo-core
+378	deathcore
+379	bosnian thrashcore
+380	metal core
+381	thrashcore
+382	female melodic death metal
+383	modern melodic metal
+384	modern melodic death metal
+385	melodic death metal
+386	heavy metal
+387	progressive rock
+388	brit rock
+389	britpop
+390	indsutrial
+391	shoegaze
+392	death rock
+393	dream pop
+394	proto-punk
+395	new romantic
+396	electroclash
+397	alterntative rock
+398	alternative pop
+399	popstars
+400	talent
+401	king of pop
+402	the king of pop
+403	michael-jackson-the-king-of-pop
+404	girlgroup
+405	disney
+406	brazil
+407	genial
+408	female vocals
+409	guitar virtuoso
+411	andre matos
+414	melodic metal
+417	rock opera
+418	iron maiden cover
+419	metal god
+420	sao paulo
+422	male vocals
+423	helloween
+424	progressive
+425	pastel
+430	heavy rock
+431	hugo mariutti
+432	brazilian
+433	nightwish cover
+434	adrian dragassakis
+440	clasical
+441	industrail rock
+442	sludge
+443	new ag
+444	progessive metal
+445	blues rock
+446	grunge rock
+449	solar stone
+450	underworld
+459	danjo
+460	rozza
+477	silent intensity
+480	radio
+481	usa
+482	sasha
+483	party
+484	rick astley
+485	thomas newman
+486	smile
+487	poison
+488	runner runner
+491	nothing personal
+492	kesha
+493	glee
+494	synth
+495	synth wave
+496	80s awesome
+497	80s party
+498	i love 80s
+499	melodic
+500	brilliant
+502	back to the 80s
+503	live
+504	classic synthpop
+505	80s pop
+506	i love 90s
+507	10s
+508	love
+509	dance-pop
+510	80s new wave
+511	english
+512	romantic
+513	nostalgic
+514	depeche mode
+515	best of 80s
+516	i love disco diamonds
+517	80s dance
+518	hungarian
+519	eighties
+520	romance
+521	italo disco
+522	remix album
+523	nordic
+526	piano
+527	classic
+528	folk rock
+529	contemporany
+530	chile
+531	guitar hero
+533	renaissance
+534	impressionist
+535	baroque
+536	minimalista
+537	neofolk
+538	japan 80s
+540	djent
+541	japanese
+542	avant-garde metal
+543	stoner rock
+544	composers
+545	classical
+546	jazz fusion
+547	fusion
+549	hardrock
+552	weeabo
+553	wigger
+555	industrial pop
+556	musique concrete
+557	easy listening
+561	ep
+562	futuremelon
+563	terrorbanana
+564	psytrance
+565	dark electro
+566	goffpop
+567	rave
+569	germany
+570	techno
+571	dark techno
+572	helltrance
+573	vampirepop
+574	dark ambient
+575	darkwave
+576	alpha quadrant
+577	industrial techno
+578	ambient industrial
+579	intelligent electro
+580	industrial dance
+581	boring
+582	goff
+583	pissbass
+585	darktechno
+586	science fiction
+587	darktrance
+588	psychedelic trance
+590	electrowave
+592	techtrance
+593	dark electronic
+594	old shit
+595	war
+596	tech-trance
+597	combichrist
+598	portion control
+599	cyber
+600	futurepop
+601	swedish
+602	futurepop anthem
+603	hardstyle
+604	norwegian
+605	gabber
+607	dutch
+608	italian
+609	hard trance
+610	childhood
+611	canadian
+612	deathrock
+613	powernoise
+614	belgian
+615	power metal
+616	technical thrash metal
+617	speed metal
+618	on frozen fields
+619	groove metal
+620	war metal
+621	battle metal
+622	best of the best
+623	depression
+624	electro house
+625	soul
+626	drum and bass
+627	podcast
+631	minimalist
+632	rihanna
+633	miley cyrus
+634	americans
+635	shakira
+636	britney spears
+637	tecno
+638	r&b
+639	queen
+640	urban
+641	top 40
+642	guilty pleasure
+643	teen
+644	tech
+647	00
+648	thalia
+649	sex symbol
+650	jlo
+651	pop teen
+652	rap reggae
+653	camp rock
+654	ashley tisdale
+656	jeffree star
+657	katy perry
+658	lady gaga
+661	ballads
+662	perfect
+663	riri
+664	christina aguilera
+665	xtina
+666	not myself tonight
+667	bionic
+670	girl power
+672	raining men
+673	supersonic
+675	te amo
+676	sweet dreams
+678	bestrihanna
+682	tip pon toe
+683	country pop
+684	punk pop
+685	nickelodeon
+686	idol
+687	abba
+689	madonna
+690	swedish pop
+691	favorite by this group
+693	mpb
+694	ana carolina
+695	oldies
+696	1970s
+697	best of all
+698	love song
+699	trilha sonora
+700	60's
+701	beyonce
+702	smooth
+703	fucking sexy
+704	ackles
+706	2008
+707	brasileira
+708	get stupid
+709	1982
+710	the best of madonna
+711	1978
+712	gospel
+713	best song ever
+714	sweden
+715	roxette
+716	joyride
+717	scandinavian
+718	christmas songs
+719	gossip girl
+720	salsa
+721	trumpet
+722	colombia
+723	reggaeton
+724	happy
+725	vivaldi
+726	salsa romantica
+727	vocal
+728	rock en espanol
+729	concerto
+731	barroco
+732	antonio vivaldi
+733	barroco favorito
+734	latino
+735	70s
+736	dance rock
+737	great lyrics
+738	nu-metal
+739	swedish metal
+740	brutal deathgrind
+741	grindcore
+742	brutal death metal
+743	technical death metal
+744	death metalcore
+745	brutal deathcore
+746	progressivo
+747	christian metalcore
+749	deathgrind
+750	post hardcore
+751	russian death metal
+752	bree bree
+753	goregrind
+754	vocalist
+755	bay area
+756	southern rap
+757	indie folk
+758	instrumental hip-hop
+759	acoustic music
+760	rock in rool
+761	pop metal
+762	not emo
+763	andy six
+764	post-hadcore
+765	lady gaga play day
+766	holiday soundtrack
+767	unreleased
+768	stand out be proud
+769	demi lovato
+770	my childhood
+771	underrated
+772	one of her best songs
+773	her best
+774	amazing voice
+775	elvis presley
+778	party time
+779	vanessa hudgens
+780	legends
+781	2010
+783	hilarious
+784	american idol
+785	never gets old
+787	nick
+788	wishlist
+789	2010s
+791	taylor swift
+792	1980s
+793	fucking awesome
+795	haunting
+797	masterpiece
+798	unforgettable
+799	genius
+800	cello metal
+801	hypnotic
+803	apocalyptic
+807	helplessly singing along
+808	beautifully depressing
+809	great cover
+810	attitude
+811	peaceful
+812	great b-side
+814	perfection
+816	fucking beautiful
+818	greatest rock anthems
+819	my music pillow
+820	chen-
+821	post rock
+822	basque
+823	brasil
+824	mellow
+825	relaxing
+826	chill
+827	medieval
+828	finnish
+829	blues
+830	guitar
+831	the best
+832	music to cry
+833	energy
+834	ukrainian
+835	nostalgia
+836	dreamy
+837	sad and slow
+838	amazing vocal
+839	sad
+840	perfect lyrics
+841	absolutely genius
+842	piano rock
+843	rock ballad
+844	sensual
+845	meditative
+846	placebo
+847	female vocal
+848	hair metal
+849	riot grrrl
+850	cover
+851	rock catala
+852	christian metal
+853	celtic
+854	spiritual
+855	new rave
+856	mixmaster supreme
+857	disco classic
+858	smooth groove
+859	damn boy
+860	glorious gospel
+861	deep house mixes
+862	90s jam
+863	forgotten 80s jam
+864	loleeta
+865	memphis soul
+866	miss grace jones
+867	grace
+868	loleatta
+869	drum 'n' bass
+870	dnb
+872	quiet storm
+873	70s jazz
+874	luther vandross
+877	vocal classic
+878	david at his finest
+880	fonky fresh jam
+881	undulating
+882	slinky
+883	philly soul
+884	still a jam
+885	fav songs
+889	fav artists
+891	synthpop songs
+892	1982 songs
+893	fav albums
+894	synthpop albums
+895	british artists
+896	1981 songs
+897	new wave artists
+899	1983 songs
+901	1984 songs
+902	1979 songs
+903	1984 albums
+904	debut albums
+905	1983 albums
+906	3 star albums
+907	synthpop artists
+908	1980 songs
+909	1982 albums
+910	4 star albums
+911	electronic albums
+912	1981 albums
+913	1980 albums
+914	1986 albums
+915	1985 albums
+916	1985 songs
+917	electronic songs
+918	american artists
+919	b-sides
+920	alternative albums
+921	1979 albums
+922	instrumentals
+923	1986 songs
+924	1987 albums
+925	2 star albums
+926	1988 albums
+927	5 star albums
+928	post-punk songs
+931	rock albums
+932	1978 albums
+933	pure aural sex
+935	lo-fi
+936	mariah carey
+937	leona lewis
+938	run the world
+939	weirdo music
+940	clocks
+941	arjen anthony lucassen
+942	space metal
+943	metroid
+944	game
+946	lisp
+947	pirate metal
+948	alliterative
+949	duke nukem
+950	epic song
+951	sicp
+952	neo-classical metal
+953	june
+955	favourite
+956	the beowulfs choice
+957	scholes song
+958	the pedofinder general
+961	zadrotstvo
+962	my fav fun
+963	touching song
+965	absolute disco
+966	oni pout
+967	ohm sweet ohm
+969	po-andoneovski
+970	hellish song
+971	polotenchik poet
+972	my choice
+973	my fav voice
+974	tango
+975	my calm
+976	true synthpop
+977	classical crossover
+978	opera
+979	andrew lloyd webber
+980	tenor
+981	mezzo-soprano-
+982	pop opera
+983	soprano
+984	baritone
+985	popera
+986	alessandro safina
+987	caruso
+989	duet
+990	turandot
+991	musical
+992	adagio
+993	phantom of the opera
+994	foll
+995	mepoupe
+996	korean
+997	pure love
+998	somebody told me
+999	alternatif
+1000	anglais
+1001	darkstep
+1002	darkside
+1003	hardstep
+1004	belarus
+1005	death-metal
+1006	mathcore
+1007	g-funk
+1008	bandana music
+1009	westcoast
+1010	g-funk francais
+1011	bay rap
+1012	chicano rap
+1013	laglak
+1014	gangsta rnb
+1015	pimp rap
+1016	jazz rock
+1017	math rock
+1018	jazzcore
+1019	jazz core
+1020	indie jazz dance math rock
+1021	aysel gurel
+1022	onno tunc
