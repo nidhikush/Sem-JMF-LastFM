@@ -15,6 +15,9 @@ such as:
 Q3. Give an example of some removed tags (with garbage meaning).
 Ans: There were many repetitions For ex: 80's  rock and 80 rock
 
+Q4. Which formula has been used to calculate it?
+Ans: Eq. number (18) & (19) in the paper was used.
+
 ********************************************************************************************************
 
 Time information acquisition and processing
