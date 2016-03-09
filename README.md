@@ -9,6 +9,9 @@ Pyhon code for Sem-JMF (Last.FM )
 
 4. "tag1.dat" has information about tags that have taken into consideration after manual removal of incoherent tags.
 
-5. "Sem-JMF.py" python code for the implemenation of all modules describe in paper "Intoduction of Semantic and Time variant informaTION USING 
-Matrix Factorization Approach for Implicit rating of Last.Fm".
+5.  "user_taggedartists.dat" consist tags given by users.
+
+6. "Tag_TimeData.txt" have information about how the data acquisition and processing of Tag and Time has been done. 
+
+7. "Sem-JMF.py" python code for the implemenation of all modules describe in paper "Intoduction of Semantic and Time variant informaTION USING Matrix Factorization Approach for Implicit rating of Last.Fm".
 
