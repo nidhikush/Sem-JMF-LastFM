@@ -1,0 +1,40 @@
+Tag information acquisition and processing
+------------------------------------------
+Q1.  What is the format of Tag data and in which file it is?
+Ans: The tag file "user_taggedartists.dat" contains the name of the tag and a corresponding tag id.
+Ex: 
+userID	artistID	tagID	day	month	year
+1	2	52	13	1	4	2009
+
+Q2. How many of them and how much used and why?
+Ans: We have used 1000 tags because most of them were inchorent such as the name of the album or some non-english words.
+such as:
+1191	ahhhhhhhhh
+1192	australian pop rock at its best
+
+Q3. Give an example of some removed tags (with garbage meaning).
+Ans: There were many repetitions For ex: 80's  rock and 80 rock
+
+********************************************************************************************************
+
+Time information acquisition and processing
+-------------------------------------------
+Q1. What is the format of Time data and from which file it is fetched?
+Ans: It is residing in "user_taggedartists.dat"
+Ex: 
+userID	artistID	tagID	day	month	year
+1	2	52	13	1	4	2009
+
+Q2. How to fetch these data:
+Ans: We have converted this data to year format and then applied it on the formula.
+
+Q3. How many of them are there and how much you have used and why?
+Ans: The users that we took out at random, we took the artists they taggeed and all the other information with it.
+
+Q4. Give example of the used time data:
+Ans: While calculating the decay factor we used the difference of the year in our formulation. 
+Example:  {current year(2015) - x}, where 'x' is the year that in which the artist was tagged by the user.
+Score given in 2012 is: 5
+Calculating in 2015: = (5) * (0.9)^(2015-2012)
+Here, 5 is rating in 2012 and 0.9 is decaying factor.
+
